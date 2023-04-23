@@ -1,1 +1,1 @@
-var posts=["2023/04/22/如何创建个人博客/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
+var posts=["2023/04/23/如何创建个人博客/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
